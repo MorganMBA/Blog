@@ -16,13 +16,13 @@ export class AppComponent {
     },
     {
       title: 'Mon deuxième post',
-      content: "j'ai pas d'amis, ni de copines j'aimerais bien en avoir mais j'ai pas d'argent j'adorerais être appeler pour un travail",
+      content: "j'adorerai être embaucher cet été",
       loveIts: 0,
       create_at: Date.now()
     },
     {
       title: 'Mon troisième post',
-      content: 'i love money, on danse',
+      content: "tuba life 9.2 c'est l'elite",
       loveIts: 0,
       create_at: Date.now()
     }
