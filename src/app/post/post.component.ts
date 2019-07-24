@@ -6,11 +6,10 @@ import { Component, OnInit, Input } from '@angular/core';
   styleUrls: ['./post.component.scss']
 })
 export class PostComponent implements OnInit {
-  @Input() title: string;
-  @Input() datePost: Date;
-  @Input() content: string;
-
-  constructor() { }
+  
+  @Input() posts: [];
+  constructor() {
+  }
 
   ngOnInit() {
   }

@@ -27,5 +27,4 @@ export class AppComponent {
       create_at: Date.now()
     }
   ];
-
 }
